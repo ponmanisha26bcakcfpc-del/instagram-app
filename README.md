@@ -6,6 +6,9 @@ https://www.figma.com/design/effKWYz7Ua6YBMWAUWokvX/Untitled?m=dev&t=2FzzdyJZoJg
 
 Prototype
 
+https://www.figma.com/proto/effKWYz7Ua6YBMWAUWokvX/Untitled?node-id=0-1&t=Slz56oaB76zBSRYL-1
+
+
 
 📸 Instagram App UI Design – Low-Fidelity
 
